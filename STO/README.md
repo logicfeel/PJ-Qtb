@@ -40,16 +40,16 @@
 | **STO** | COM    |                            |           | **상점**           |                    |          |
 |         | NPM    | `@store/base_m`            |           | `상점 기본`        |                    |          |
 |         | Branch | - @store/Base_M-300.0      | 300.0.0   | 단독형 상점        |                    | ms2008   |
-|
+||||||||
 |         | U      | STO_Base                   |           | 상점기본 테이블    |                    | ms2008   |
 |         | SP     | STO_Base_SP_C              |           | 상점기본 등록      |                    | ms2008   |
 |         | SP     | STO_Base_SP_R              |           | 상점기본 조회      |                    | ms2008   |
 |         | SP     | STO_Base_SP_U              |           | 상점기본 수정      |                    | ms2008   |
 |         | SP     | STO_Base_SP_D              |           | 상점기본 삭제      |                    | ms2008   |
 |         | SP     | STO_Base_SP_LX             |           | 상점기본  목록 조회(XML)     |          | ms2008   |
-|
+||||||||
 |         | SP     | STO-Base_SP_C              |           | 상점기본 테이블     |                    | ms2008   |
-|
+||||||||
 |         | SP     | STO-Base-SP_C              |           | 상점기본 테이블     |                    | ms2008   |
 
 
@@ -61,7 +61,7 @@
 |         | `@store/base_m`              | NPM       | `상점 기본`        |                     |          |
 |         | - @store/Base_M-300.0        | 300.0.0   | 단독형 상점        |                     | ms2008   |
 |         | - @store/Base_M-300.1        | 300.1.0   | 멀티형 상점        | 낮은버전 포함        | ms2008   |
-|
+|||||||
 |         | STO_Base                     | U         | 상점기본 테이블    |                    | ms2008   |
 |         | STO_Base_SP_C                | SP        | 상점기본 등록      |                    | ms2008   |
 |         | STO_Base_SP_R                | SP        | 상점기본 조회      |                    | ms2008   |
@@ -78,7 +78,7 @@
 |         | `@store/base_m`              | NPM       | `상점 기본`        |          |
 |         | - @store/Base_M-300.0        | 300.0.0   | 단독형 상점        | ms2008   |
 |         | - @store/Base_M-300.1        | 300.1.0   | 멀티형 상점  , 낮은버전 포함 | ms2008   |
-|
+||||||
 |         | STO_Base                     | U         | 상점기본 테이블          | ms2008   |
 |         | STO_Base_SP_C                | SP        | 상점기본 등록            | ms2008   |
 |         | STO_Base_SP_R                | SP        | 상점기본 조회            | ms2008   |
